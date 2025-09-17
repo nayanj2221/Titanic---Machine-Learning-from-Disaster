@@ -12,15 +12,15 @@ This project is a classic machine learning challenge from a Kaggle competition. 
 
 ##  Table of Contents
 
-  * [Project Overview]([https://www.google.com/search?q=%23-project-overview](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/blob/main/README.md#project-overview))
-  * [Project Workflow]([https://www.google.com/search?q=%23-project-workflow](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-workflow))
-  * [Data Dictionary](https://www.google.com/search?q=%23-data-dictionary)
-  * [Exploratory Data Analysis (EDA) & Key Findings](https://www.google.com/search?q=%23-exploratory-data-analysis-eda--key-findings)
-  * [Feature Engineering](https://www.google.com/search?q=%23%EF%B8%8F-feature-engineering)
-  * [Modeling & Evaluation](https://www.google.com/search?q=%23-modeling--evaluation)
-  * [Results & Conclusion](https://www.google.com/search?q=%23-results--conclusion)
-  * [Future Improvements](https://www.google.com/search?q=%23-future-improvements)
-  * [How to Run this Project](https://www.google.com/search?q=%23-how-to-run-this-project)
+  * [Project Overview](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-overview)
+  * [Project Workflow](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-workflow)
+  * [Data Dictionary](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#data-dictionary)
+  * [Exploratory Data Analysis (EDA) & Key Findings](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#exploratory-data-analysis-eda--key-findings)
+  * [Feature Engineering](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#feature-engineering)
+  * [Modeling & Evaluation](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#modeling--evaluation)
+  * [Results & Conclusion](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#results--conclusion)
+  * [Future Improvements](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#future-improvements)
+  * [How to Run this Project](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#how-to-run-this-project)
 
 -----
 
