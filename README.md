@@ -10,10 +10,10 @@ This project is a classic machine learning challenge from a Kaggle competition. 
 
 -----
 
-## 📊 Table of Contents
+##  Table of Contents
 
-  * [Project Overview](https://www.google.com/search?q=%23-project-overview)
-  * [Project Workflow](https://www.google.com/search?q=%23-project-workflow)
+  * [Project Overview]([https://www.google.com/search?q=%23-project-overview](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/blob/main/README.md#project-overview))
+  * [Project Workflow]([https://www.google.com/search?q=%23-project-workflow](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-workflow))
   * [Data Dictionary](https://www.google.com/search?q=%23-data-dictionary)
   * [Exploratory Data Analysis (EDA) & Key Findings](https://www.google.com/search?q=%23-exploratory-data-analysis-eda--key-findings)
   * [Feature Engineering](https://www.google.com/search?q=%23%EF%B8%8F-feature-engineering)
