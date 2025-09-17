@@ -12,15 +12,15 @@ This project is a classic machine learning challenge from a Kaggle competition. 
 
 ##  Table of Contents
 
-  * [Project Overview](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-overview)
-  * [Project Workflow](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#project-workflow)
-  * [Data Dictionary](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#data-dictionary)
-  * [Exploratory Data Analysis (EDA) & Key Findings](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#exploratory-data-analysis-eda--key-findings)
-  * [Feature Engineering](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#feature-engineering)
-  * [Modeling & Evaluation](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#modeling--evaluation)
-  * [Results & Conclusion](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#results--conclusion)
-  * [Future Improvements](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#future-improvements)
-  * [How to Run this Project](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/edit/main/README.md#how-to-run-this-project)
+  * [Project Overview](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#project-overview)
+  * [Project Workflow](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#project-workflow)
+  * [Data Dictionary](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#data-dictionary)
+  * [Exploratory Data Analysis (EDA) & Key Findings](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#exploratory-data-analysis-eda--key-findings)
+  * [Feature Engineering](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#feature-engineering)
+  * [Modeling & Evaluation](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#modeling--evaluation)
+  * [Results & Conclusion](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#results--conclusion)
+  * [Future Improvements](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#future-improvements)
+  * [How to Run this Project](https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster/tree/main?tab=readme-ov-file#how-to-run-this-project)
 
 -----
 
@@ -142,8 +142,8 @@ To replicate this analysis, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/[your-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone https://github.com/nayanj2221/Titanic---Machine-Learning-from-Disaster.git
+    cd Titanic---Machine-Learning-from-Disaster
     ```
 
 2.  **Create a virtual environment (optional but recommended):**
@@ -162,5 +162,5 @@ To replicate this analysis, follow these steps:
 4.  **Run the Jupyter Notebook:**
 
     ```bash
-    jupyter notebook [your_notebook_name].ipynb
+    jupyter notebook Titanic Survival Prediction.ipynb
     ```
